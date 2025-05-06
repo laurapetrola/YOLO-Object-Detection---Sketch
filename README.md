@@ -1,0 +1,1 @@
+Simple initial study on YOLO8 technology for image classification. Starting my studies by categorizing skies images.
